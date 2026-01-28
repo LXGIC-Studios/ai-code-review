@@ -29,7 +29,19 @@
   },
   "keywords": [
     "ai",
+    "openai",
+    "gpt",
+    "code-review",
+    "code-analysis",
+    "linting",
+    "static-analysis",
+    "developer-tools",
     "cli",
-    "developer-tools"
+    "automation",
+    "git",
+    "pull-request",
+    "dx",
+    "typescript",
+    "nodejs"
   ]
 }

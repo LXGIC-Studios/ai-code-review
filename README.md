@@ -1,5 +1,11 @@
 # ai-code-review
 
+[![npm version](https://img.shields.io/npm/v/ai-code-review.svg)](https://www.npmjs.com/package/ai-code-review)
+[![npm downloads](https://img.shields.io/npm/dm/ai-code-review.svg)](https://www.npmjs.com/package/ai-code-review)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+AI-powered code review for your staged git changes. Catch bugs and code smells before pushing.
+
 Get a code review before you even push. It reads your staged changes and gives you feedback with colored output right in the terminal.
 
 ## Install
